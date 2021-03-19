@@ -1,3 +1,4 @@
+
 * {
 	box-sizing: border-box;
 }
@@ -30,4 +31,8 @@ img {
 	display: block;
 	max-width: 100%;
 	height: auto;
+}
+
+.presentation{
+	display: flex;
 }

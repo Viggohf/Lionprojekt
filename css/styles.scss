@@ -35,4 +35,22 @@ img {
 
 .presentation{
 	display: flex;
+	width: 80%;
+	margin: auto;
+	min-height: 150vh;
+	align-items: center;
 }
+
+.introduction{
+	flex: 1;
+}
+
+.intro-text{
+	width: 80%;
+}
+
+.billede1{
+	height: 20px;
+}
+
+

@@ -31,19 +31,24 @@ img {
 	display: block;
 	max-width: 100%;
 	height: auto;
+	padding-bottom: 50px;
+	padding-top: 50px;
 }
 
 .presentation{
 	display: flex;
 	width: 80%;
 	margin: auto;
-	min-height: 150vh;
+	min-height: 120vh;
 	align-items: center;
+	flex-wrap: wrap;
+	padding-bottom: 50px;
 }
 
 .introduction{
 	flex: 1;
 }
+
 
 .intro-text{
 	width: 80%;
@@ -54,3 +59,14 @@ img {
 }
 
 
+
+@media only screen and (min-width: 475px){
+
+}
+
+
+
+@media only screen and (min-width: 768px) {
+
+
+}
